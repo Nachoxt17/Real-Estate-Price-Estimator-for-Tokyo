@@ -19,17 +19,16 @@ This project develops a machine learning regression model to estimate Tokyo real
 - Evaluation of model performance and predictive accuracy.
 
 ## 📂 Files
-- `tokyo_real_estate_data.csv` — housing dataset.
-- `Real_Estate_Price_Estimator_for_Tokyo.ipynb` — Jupyter Notebook with full pipeline.
+- `tokyo_real_estate_data.csv` — raw data housing dataset.
+- `df_preprocessed.pickle` — pre-processed data housing dataset.
+- `final_dataset.pickle` — finalized data housing dataset.
+- `01-Data Aggregation & Preprocessing.ipynb` — Jupyter Notebook #1.
+- `02-Exploratory Data Analysis.ipynb` — Jupyter Notebook #2.
+- `03-Correlation Analysis.ipynb` — Jupyter Notebook #3.
+- `04-Build Regression Model.ipynb` — Jupyter Notebook #4.
 
 ## ▶️ How to View & Run:
-Click in the  `Real_Estate_Price_Estimator_for_Tokyo.ipynb` Jupyter Notebook in this repository (recommended for non-technical people)
-OR
-Access the **read-only executable version** of the notebook in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
-
-This allows you to interactively review and run the code in a controlled cloud environment.
+Click in whaterver Jupyter Notebook in this repository that you want to see (recommended for non-technical people).
 
 ## 📄 License
 MIT License
