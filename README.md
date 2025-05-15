@@ -20,8 +20,8 @@ This project develops a machine learning regression model to estimate Tokyo real
 
 ## 📂 Files
 - `tokyo_real_estate_data.csv` — raw data housing dataset.
-- `df_preprocessed.pickle` — pre-processed data housing dataset.
-- `final_dataset.pickle` — finalized data housing dataset.
+- `df_preprocessed.csv` — pre-processed data housing dataset.
+- `final_dataset.csv` — finalized data housing dataset.
 - `01-Data Aggregation & Preprocessing.ipynb` — Jupyter Notebook #1.
 - `02-Exploratory Data Analysis.ipynb` — Jupyter Notebook #2.
 - `03-Correlation Analysis.ipynb` — Jupyter Notebook #3.
